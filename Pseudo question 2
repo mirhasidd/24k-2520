@@ -1,0 +1,7 @@
+START 
+INPUT A,B,C
+Multiply all the inputs by '-' operator
+Solve the inputs
+Multiply result ny '-'
+display the result
+END
