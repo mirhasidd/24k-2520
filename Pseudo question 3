@@ -1,0 +1,10 @@
+START
+INPUT N1, N2, N3
+Input the Operators '+' and '-'
+If the operator '+' THEN 
+SUM N1+N2+N3=a
+PRINT a
+If the operator '-' THEN
+SUB N1-N2-N3=b
+PRINT b
+END
