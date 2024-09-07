@@ -1,0 +1,17 @@
+Control Module
+Input the name of the  months with their respective numbers
+January-01
+february-02
+March-03
+April-04
+May-05
+June-06
+July-07
+August-08
+September-09
+October-10
+Novemeber-11
+December-12
+Ask the user to enter any number between 01-12
+Display the month which has the respective number
+End
