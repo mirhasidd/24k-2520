@@ -1,0 +1,11 @@
+Control Module
+Input '+' operator (Returns the sum of the two numbers)
+Input '-' operator(Returns the difference of the two numbers)
+Input '*' operator (Returns the multiplication of the two numbers)
+Input '/' operator (Returns the division of the two numbers)
+Input '%' operator (Returns the percentage of the two numbers)
+Ask the user to enter two values
+Ask the user to select an operation 
+Call the corresponding operator
+Print the result
+End
